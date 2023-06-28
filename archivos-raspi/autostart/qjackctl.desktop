@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=qjackctl
+Exec=bash -c "qjackctl &"
