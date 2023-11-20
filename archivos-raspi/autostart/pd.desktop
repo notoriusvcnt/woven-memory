@@ -1,5 +1,5 @@
 [Desktop Entry]
 Type=Application
 Name=PureData
-Exec=bash -c "sleep 10s; pd -jack /home/vcnt/pi/Londres38/_MAIN.pd"
+Exec=bash -c "sleep 10s; pd -rt -jack /home/vcnt/pi/Londres38/_MAIN.pd"
 
